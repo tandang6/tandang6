@@ -1,5 +1,5 @@
 ## Hi there 👋
-Gachon Univ 3rd grade student. Call me Sun
+Gachon Univ 3rd grade student. 
 <!--
 **tandang6/tandang6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
